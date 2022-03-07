@@ -20,11 +20,10 @@
     height: 8px;
 }
 
-.rc-slider-handle,
-.rc-slider-handle-dragging,
-.rc-slider-handle:active,
-.rc-slider-handle:focus, 
-.rc-slider-handle:hover {
+.Palette .rc-slider-handle,
+.Palette .rc-slider-handle:active,
+.Palette .rc-slider-handle:focus, 
+.Palette .rc-slider-handle:hover {
     background-color: green;
     outline: none;
     border: 2px solid green;
