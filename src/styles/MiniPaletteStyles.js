@@ -6,7 +6,6 @@ const styles = {
         border: "1px solid black",
         padding: "0.5rem",
         position: "relative",
-        overflow: "hidden",
         "&:hover": {
             cursor: "pointer"
         } 
@@ -38,7 +37,8 @@ const styles = {
         display: "inline-block",
         margin: "0 auto",
         position: "relative",
-        marginBottom: "-3.5px"
+        marginBottom: "-3.5px",
+        overflow: "hidden"
     }
 }
 
